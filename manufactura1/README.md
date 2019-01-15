@@ -16,8 +16,8 @@ El alumno elaborará piezas a través del trabajo de banco y el maquinado conven
 ## Seguridad, diagramas de proceso y trabajo de banco
 
 - Seguridad en el área de maquinado
-  + [NOM 004](http://asinom.stps.gob.mx:8145/upload/noms/Nom-004.pdf)
-  + [NOM 017](http://asinom.stps.gob.mx:8145/upload/noms/Nom-017.pdf)
+  + Lecture: [NOM 004](http://asinom.stps.gob.mx:8145/upload/noms/Nom-004.pdf)
+  + Lecture: [NOM 017](http://asinom.stps.gob.mx:8145/upload/noms/Nom-017.pdf)
 
 - Diagramas de proceso
   + [ejemplo](recursos/diagrama-de-procesos.pdf)
@@ -26,6 +26,9 @@ El alumno elaborará piezas a través del trabajo de banco y el maquinado conven
   + Lecture: Workshop Processes, Practices and Materials (Bruce J Black ) ppg 30-41
 
 ## Procesos de maquinado con desprendimiento de viruta
+
+- Elaboración e interpretación de planos. Introducción a GDT
+  + Lecture Engineering Drawing & Design (David A. Madsen ) chapter 10 ppg 315-384
 
 - Parámetros de corte
   + Lecture: 27 th Edition Machinery’s Handbook ppg 1009-1021
@@ -39,7 +42,17 @@ El alumno elaborará piezas a través del trabajo de banco y el maquinado conven
 - Operaciones de maquinado en la fresadora
   + Lecture: Workshop Processes, Practices and Materials (Bruce J Black ) ppg 174-185
 
-- Operaciones de rectificado
+# Evaluación
+
+- Parciales:
+  20% asistencia
+  20% quiz de lectures
+  20% examen parcial
+  40% proyecto parcial
+
+- Evaluación final [evaluación](recursos/evaluacion_proyecto_final.md):
+  100% proyecto final en equipo
+
 
 ### Bibliografía de la materia
 

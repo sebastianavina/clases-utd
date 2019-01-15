@@ -45,13 +45,13 @@ El alumno elaborará piezas a través del trabajo de banco y el maquinado conven
 # Evaluación
 
 - Parciales:
-  20% asistencia
-  20% quiz de lectures
-  20% examen parcial
-  40% proyecto parcial
+  + 20% asistencia
+  + 20% quiz de lectures
+  + 20% examen parcial
+  + 40% proyecto parcial
 
-- Evaluación final [evaluación](recursos/evaluacion_proyecto_final.md):
-  100% proyecto final en equipo
+- Evaluación final:
+  + 100% proyecto final en equipo [rubrica](recursos/evaluacion_proyecto_final.md)
 
 
 ### Bibliografía de la materia

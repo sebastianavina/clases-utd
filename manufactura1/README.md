@@ -5,7 +5,7 @@ El alumno elaborará piezas a través del trabajo de banco y el maquinado conven
 ## Sistemas de unidades e instrumentos de medición geométrica
 
 - Unidades fundamentales y derivadas
-  Lecture: 27 th Edition Machinery’s Handbook ppg 142-144
+  + Lecture: 27 th Edition Machinery’s Handbook ppg 142-144
 
 - Instrumentos de medición y accesorios
   + Uso de vernier
@@ -28,7 +28,7 @@ El alumno elaborará piezas a través del trabajo de banco y el maquinado conven
 ## Procesos de maquinado con desprendimiento de viruta
 
 - Parámetros de corte
-  Lecture: 27 th Edition Machinery’s Handbook ppg 1009-1021
+  + Lecture: 27 th Edition Machinery’s Handbook ppg 1009-1021
 
 - Taladrado y roscado interno
   + Lecture: Workshop Processes, Practices and Materials (Bruce J Black ) ppg 129-138  

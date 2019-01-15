@@ -1,6 +1,6 @@
 # [Manufactura 01](recursos/analitico.docx)
 
-El alumno elaborará piezas a través del trabajo de banco y el maquinado convencional considerando las specificaciones técnicas de medición y normas de eguridad para establecer los procesos de manufactura.
+El alumno elaborará piezas a través del trabajo de banco y el maquinado convencional considerando las specificaciones técnicas de medición y normas de eguridad para establecer los procesos de manufactura. [intro](recursos/intro-substracting-mfg.pdf)
 
 ## Sistemas de unidades e instrumentos de medición geométrica
 
